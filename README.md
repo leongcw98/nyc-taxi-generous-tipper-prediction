@@ -10,7 +10,7 @@ Build a predictive model that identifies passengers likely to give generous tips
 
 ## Dataset
 
-The dataset contains information on NYC taxi rides, including trip details, fares, and tipping behavior. The data has been cleaned and preprocessed to prepare it for modeling.
+The dataset used in this project is sourced from the Google Advanced Data Analytics course on Coursera. The dataset contains information on NYC taxi rides, including trip details, fares, and tipping behavior. The data has been cleaned and preprocessed to prepare it for modeling.
 
 ## Methodology
 
